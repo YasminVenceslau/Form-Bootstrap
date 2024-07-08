@@ -1,6 +1,9 @@
 
 body{
+    background-color: aquamarine;
     background-image:url(imagens/Rainbow\ Gradient\ Pink\ and\ Purple\ Virtual\ Background.png);
+   
+   background-size: cover;
 }
 
 .container{
